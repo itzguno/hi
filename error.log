@@ -1,0 +1,6 @@
+ERROR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) - /sell/client/ at Thursday 7th of November, 2019, 05:10:03 PM
+ERROR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) - /sell/client/ at Thursday 7th of November, 2019, 05:12:31 PM
+ERROR: SQLSTATE[HY000] [1044] Access denied for user ''@'localhost' to database 'booter' - /sell/client/ at Thursday 7th of November, 2019, 05:12:49 PM
+ERROR: SQLSTATE[HY000] [1044] Access denied for user ''@'localhost' to database 'booter' - /sell/client/ at Thursday 7th of November, 2019, 05:12:49 PM
+ERROR: SQLSTATE[HY000] [1044] Access denied for user ''@'localhost' to database 'booter' - /sell/client/ at Thursday 7th of November, 2019, 05:13:40 PM
+ERROR: SQLSTATE[HY000] [1044] Access denied for user ''@'localhost' to database 'booter' - /sell/client/ at Thursday 7th of November, 2019, 05:13:40 PM
